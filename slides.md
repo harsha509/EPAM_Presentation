@@ -59,7 +59,7 @@ I ❤️ JavaScript and Will code for cup of ☕☕☕☕
   <div><a href="https://twitter.com/sri_harsha509" target="_blank">sri_harsha509</a></div>
 </div>
 
-<img src="logo/PP2.jpeg" class="rounded-full w-40 abs-tr mt-16 mr-12"/>
+<img src="https://static.wixstatic.com/media/50a337_34df4a6b8ef5493f88917ebb7ca07017~mv2.jpeg" class="rounded-full w-40 abs-tr mt-16 mr-12"/>
 
 ---
 layout: center
